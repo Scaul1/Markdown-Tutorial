@@ -1,0 +1,29 @@
+//this first list uses bullets
+
+* Flour
+* Cheese
+* Tomatoes
+
+//this list will be numbered or in other words be in numerical order
+
+1. Cut the cheese
+2. Slice the tomatoes
+3. Rub the tomatoes in flour
+
+//by adding a space before the asterisk, you can have indented lists in your original list
+
+* Calculus 
+ * A professor 
+ * Has no hair 
+ * Often wears green
+* Castafiore 
+ * An opera singer 
+ * Has white hair 
+ * Is possibly mentally unwell
+ 
+ //this list has paragraphs that are indented. You achieve this by adding a space before the paragraph.
+ 
+ 1. Cut the cheese.
+  Make sure that the cheese is cut into little triangles.
+2. Slice the tomatoes   Be careful when holding the knife.
+  For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
